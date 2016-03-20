@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Drawer Layout with RecyclerView</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="default_button_text">…</string>
+    <string name="loading">Loading…</string>
+    <string name="header">Header!</string>
+</resources>
